@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446376072 source:c:\users\abdullah\desktop\c trainig\day2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1446559912 source:c:\users\abdullah\desktop\c trainig\day2_variable_byte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
